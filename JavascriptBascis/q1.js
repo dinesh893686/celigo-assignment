@@ -1,13 +1,15 @@
 const Person={
 
-    firstName:this.firstName,
-    lastName:this.lastName,
-    age:this.age
+    firstName:"dinesh",
+    lastName:"shah",
+    age:22
 
 
 
 }
 
 
-let person1= new Person("dinesh","shah",22);
-console.log(person1);
+
+console.log(Person.firstName);
+console.log(Person.lastName);
+console.log(Person.age);
