@@ -1,0 +1,20 @@
+[
+    {
+        "name": "baseball bat",
+        "price": "$30",
+        "color": "white",
+        "category": "sport"
+    },
+    {
+        "name": "golf club",
+        "price": "$90",
+        "color": "black",
+        "category": "sport"
+    },
+    {
+        "name": "tennis racket",
+        "price": "$60",
+        "color": "yellow",
+        "category": "sport"
+    }
+]
